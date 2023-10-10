@@ -1,0 +1,17 @@
+- Topics
+	- Hash function (3m)
+	- Keypair and elliptic curve cryptography (10m)
+		- Signing and recovering messages
+		- Asymmetric Encryption and decryption
+	- Distributed Ledger
+		- Sending money (5m)
+		- Distributed Problems
+			- Replay Attacks and Nonce (10m)
+			- Whose ledger is right? (10m)
+		- The Byzantine Problem
+			- Solution using proof of work (15m)
+		- Building blockchains with POW
+			- Wallet (3 min)
+			- Transactions (5 min)
+			- Chain Forking and how different blockchains deals with it (15 min)
+			- Smart contracts (15 min)
